@@ -9,7 +9,7 @@ Hamiltonian Path Problem
 
 ## In Action
 
-  https://ideone.com/zLI66K
+  The minimum flow cost hamiltonian cycle https://ideone.com/zLI66K
 
 ## References
 
