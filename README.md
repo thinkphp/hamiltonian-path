@@ -7,6 +7,10 @@ Hamiltonian Path Problem
    
 ![Screenshot](http://farm4.staticflickr.com/3880/15187629655_cd0bc83af7.jpg)
 
+## In Action
+
+  https://ideone.com/zLI66K
+
 ## References
 
   http://en.wikipedia.org/wiki/Hamiltonian_path_problem
